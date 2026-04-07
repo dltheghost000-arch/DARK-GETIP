@@ -1,9 +1,9 @@
 <html><body>
 
-TERMUX CLONING ⏬
-1_install packages 
-<code> pkg install python </code>
-<code> pkg install git</code>
-2_clone repository 
-<code>git clone https://github.com/dltheghost000-arch/DARK-GETIP.git</code>
+TERMUX CLONING ⏬<br>
+1_install packages <br>
+<code> pkg install python </code><br>
+<code> pkg install git</code><br>
+2_clone repository <br>
+<code>git clone https://github.com/dltheghost000-arch/DARK-GETIP.git</code><br>
 </body></html>
