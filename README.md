@@ -5,5 +5,5 @@ TERMUX CLONING ⏬<br>
 <code> pkg install python </code><br>
 <code> pkg install git</code><br>
 2_clone repository <br>
-<code>git clone https://github.com/dltheghost000-arch/DARK-GETIP.git</code><br>
+<code>git clone github.com/dltheghost000-arch/DARK-GETIP.git<code><br>
 </body></html>
